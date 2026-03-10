@@ -1,1 +1,0 @@
-2025-01-01T00:00:00Z | arc42-documentor | created | arc42-architecture.md | Initial Arc42 architecture documentation — all 12 sections, 12 Mermaid diagrams, CRM architecture baseline
