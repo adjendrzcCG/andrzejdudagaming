@@ -1,5 +1,7 @@
 # LegacyFinApp-026 insights
 
+This note is named after the issue identifier. The repository being summarized is `andrzejdudagaming`.
+
 ## Repository snapshot
 - Project name: `andrzejdudagaming`
 - Current implementation is a very small Java console application.
