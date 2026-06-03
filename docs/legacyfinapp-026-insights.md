@@ -11,8 +11,7 @@ This note is named after the issue identifier. The repository being summarized i
 - `HelloWorld.main(String[] args)`
 
 ## Current behavior
-- Running the program prints:
-  - `Hello, World!`
+- Running the program prints `Hello, World!`
 
 ## Implementation notes
 - The application has a single class and no visible package structure.
